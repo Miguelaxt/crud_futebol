@@ -21,3 +21,5 @@ Na tabela dos times criei paa atualizar o nome do time e de qual cidade eles sã
 Assim adicionando a função de atualizar um novo jogador, um novo time ou uma nova partida.
 
 No read.php usei o código para conseguir ler e mostrar o o que foi adicionado no cadastrar, assim mostrando o que foi feito, sendo um novo cadastro, uma atualização ou mostrar o que foi deletado.
+
+Assim podemos ver como ficou o site no navegador.
